@@ -10,6 +10,8 @@ This is line one
 
 This is line three
 
+### Proposal2
+
 This is added in Master Branch
 
 This is deleted in Master Branch Twice
