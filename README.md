@@ -7,6 +7,8 @@ This section is going to discuss about the proposal of Desktop Application Cours
 
 This is added in Master Branch
 
-This is added in Master Branch Twice
+This is deleted in Master Branch Twice
+
+THis is optional in Master Branch
 
 This is added in Master Branch Thrice
