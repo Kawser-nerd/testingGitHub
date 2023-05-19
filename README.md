@@ -7,6 +7,6 @@ This section is going to discuss about the proposal of Desktop Application Cours
 
 This is line one
 
-THis is line two
+This is for temporary change
 
 This is line three
